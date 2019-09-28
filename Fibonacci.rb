@@ -1,6 +1,3 @@
-#Fibonacci sequence, such that each number is the sum of the two preceding ones
-
-# get user input to determine end point
 puts "This will calculate the first x numbers of the Fibonacci sequence\n"
 puts "Please enter a number: "
 nth_term = gets.chomp
