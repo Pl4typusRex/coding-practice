@@ -2,6 +2,12 @@
 Little projects in different languages to practice logic, algorithms, etc.
 _________________________________
 
+<strong>Quick Select</strong>
+
+A selection algorithm that combines elements of quick sort and binary sort to find kth smallest item in a sequence of integers.
+
+______________________________________
+
 <strong>Grade book</strong>
 
 Complete the function so that it finds the mean of the three scores passed to it and returns the letter value associated with that grade.
